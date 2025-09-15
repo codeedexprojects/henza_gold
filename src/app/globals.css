@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face{
+  font-family: "glancy";
+  src: url("/fonts/Glancyr.ttf") format("truetype");
+  font-style: normal;
+}
+
+@layer base {
+ .font-bodies {
+    font-family: 'glancy', sans-serif;
+  }
+}
+
+@layer base {
+  .font-times {
+  font-family: 'Times New Roman', Times, serif;
+  }
+}
+@layer base {
+  .font-time {
+    font-family:Arial, Helvetica, sans-serif;
+}
+}
+
+html {
+  scroll-behavior: smooth;
+}

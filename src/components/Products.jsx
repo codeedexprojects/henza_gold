@@ -48,27 +48,21 @@ const ProductsSection = () => {
   const products = [
     {
       image: "/goldfirst.png",
-      purity: "999.9",
+      purity: "995.0",
       brand: "Sam Gold Bar",
-      productName: "1 Ounce",
+      productName: "1 Kg Bar",
     },
     {
       image: "/gold4.png.png",
       purity: "999.9",
       brand: "Emirates gold bar",
-      productName: "1kg bar",
+      productName: "100g bar",
     },
-    // {
-    //   image: "/gold1.jpg.jpg",
-    //   purity: "999.9",
-    //   brand: "Auriz gold bar",
-    //   productName: "1 Ounce",
-    // },
     {
       image: "/gold2.png.png",
       purity: "999.9",
-      brand: "Fine gold bar",
-      productName: "100gms bar",
+      brand: "Emirates gold bar",
+      productName: "1kg bar",
     },
   ];
 

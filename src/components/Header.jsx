@@ -57,7 +57,7 @@ const Header = () => {
               </Link>
             ))}
             <Link href="/" className="block">
-              <div className="w-30 h-30 mt-5 flex items-center justify-center">
+              <div className="w-20 h-20 mt-5 flex items-center justify-center">
                 <img
                   src="/logo.png"
                   alt="Logo"
@@ -82,7 +82,7 @@ const Header = () => {
           </div>
           <div className="md:hidden flex items-center justify-between w-full">
             <Link href="/" className="block">
-              <div className="w-20 h-20 mt-2 flex items-center justify-center">
+              <div className="w-15 h-15 mt-2 flex items-center justify-center">
                 <img
                   src="/logo.png"
                   alt="Logo"
